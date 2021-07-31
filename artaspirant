@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Art Aspirant</h2>
+
+<p>Start the art of coding</p>
+
+<button onclick="window.print()">let's go</button>
+
+</body>
+</html>
